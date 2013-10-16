@@ -14,57 +14,55 @@
 ## 1. Linux uppsetning
 
 
-Thurfti ad nota Virtualbox og nadi i Ubuntu. Gekk mjog erfidlega a Lenovo tolvunni (reyndi USB og sidan virtualbox, Ubuntu og sidan LinuxMint thega Ubuntu virkadi ekki, tha gafst eg gafst upp a Lenovo tolvunni. Ekki viss hvort thad er haegt ad setja thetta upp a hana), thannig ad eg skipti yfir i gamlan Mac og allt gekk vel eftir thad.
+Þurfti að nota Virtualbox og náði i Ubuntu. Gekk mjog erfiðlega a Lenovo tölvunni (reyndi USB og síðan virtualbox, Ubuntu og síðan LinuxMint þegar Ubuntu virkadi ekki, þá gafst ég upp á Lenovo tölvunni. Ekki viss hvort þad er hægt ad setja thetta upp a hana), þannig að ég skipti yfir i gamlan Mac og allt gekk vel eftir þad.
 
 For alltof mikill timi i ad reyna setja thetta upp a hinni velinni. Jafnvel thad sem virkadi fyrir adra gerdi ekki neitt a thessari Lenovo vel.
 
 Er thvi midur ekki ad finna leid til thess ad setja inn screenshot.
 
-P.s. Eins og thu serd tha eru engir islenskir stafir og eg einfaldlega nenni og get ekki eytt meiri timi i thetta neitt aukaklega eftir alla thessa vinnu. Eflaust mjog einfold lausn einhvers stadar a thessu. 
-
-
+![Alt text](/home/ubuntu/pictures/Screenshot from 2013-10-15 17:01:01.png)
 
 ## 2. Uppsetning á vim && git
 
-Gekk mjog vel. Ekkert vesen (Loksins!). Bara farid eftir leidbeiningunum.
+Gekk mjög vel. Ekkert vesen (Loksins!). Bara farið eftir leiðbeiningunum.
 
 
 ## 3. Unnið með Git (1. hluti)
 
-Thurfti ad eyda svolitlum tima i ad bua til ssh key.
+Þurfti að eyða svolitlum tíma í að búa til ssh key.
  
-Tok mikinn tima ad breyta kodanum thar sem eg fekk oft bara nonsense i skjalinu og gat ekkert lesid. Annars tokst thetta og allt hitt a endanum, aetti samt ad hafa tekid mig mun minni tima. 
-Gaeti verid ad eg hafi ovart sett inn einhvern bokstaf inni cpp kodann thegar eg var ad laera a vim. 
+Tók svolítinn tima ad breyta kóðanum þar sem ég fékk oft bara nonsense i skjalinu og gat ekkert lesið. Annars tókst þetta og allt hitt a endanum, ætti samt ad hafa tekid mig mun minni tima. 
+Gæti verið að ég hafi óvart sett inn einhvern bókstaf inní cpp kóðann þegar ég var að læra á vim. 
 
-Ad forka NIM yfir var minnsta vesenid og gekk strax mjog vel.
+Að forka NIM yfir var minnsta vesenið og gekk strax mjög vel.
 
-Her er tengilinn [git hluti 1] [4] 
+Tengilinn að verkefninu:  [git hluti 1] [4] 
 
 [4]: https://github.com/darrir13/INTOPrufa.git
 
 
 ## 4. Uppsettur hugbúnaður
 
-      - VLC
+    1. VLC
 	License: GNU 
 	http://sourceforge.net/projects/vlc/?source=directory
 
-      - HandBrake
+    2. HandBrake
 	License: GPL
 	http://sourceforge.net/projects/handbrake/?source=directory
 
-      - Pure Data
+    3. Pure Data
 	license: Modified BSD
 	http://sourceforge.net/projects/pure-data/?source=directory
 
 
-Auka test med tengla:
+Tenglar:
 
 Fyrst er [VLC] [1]
 
-Naest var [HandBrake] [2]
+Næst var [HandBrake] [2]
 
-og ad lokum [Pure Data] [3]
+og að lokum [Pure Data] [3]
 
 [1]: http://sourceforge.net/projects/vlc/?source=directory
 [2]: http://sourceforge.net/projects/handbrake/?source=directory
@@ -73,5 +71,5 @@ og ad lokum [Pure Data] [3]
 
 ## 5. Unnið með Git (2. hluti)
 
-Skemmtilegt verkefni thegar thetta for loksins ad virka. 
+Skemmtilegt verkefni þegar hlutirnir fóru að virka.  
 
